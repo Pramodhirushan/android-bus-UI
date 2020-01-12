@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">BusUI</string>
+    <string name="one">
+        <br>
+        Mathra\n</br>
+        <br>
+        2020-01-10\n</br>
+        <br>
+        20.00\n</br>
+    </string>
+
+    <string name="three">
+        <br>
+        Colombo\n</br>
+        <br>
+        2020-01-11\n</br>
+        <br>
+        06.30\n</br>
+    </string>
+
+    <string name="ten">
+        <br>
+        Duration\n</br>
+        <br>
+        10 hours 20 mins\n</br>
+    </string>
+
+    <string name="six">
+        <br>
+        Route Number:87/01\n</br>
+        <br>
+        Mathra-colombo[B]\n</br>
+    </string>
+
+    <string name="eight">
+        <br>
+        Travel-Class:N\n</br>
+        <br>
+        Normal (Non A/C)\n</br>
+    </string>
+
+</resources>
